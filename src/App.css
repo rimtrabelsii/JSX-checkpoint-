@@ -1,0 +1,43 @@
+.image1 {width: 160px;
+border-radius: 50%;
+height:160px;
+
+margin-top: 20px;}
+.info{  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+*{background-color: black;}
+.info1{display: flex;
+  align-items: center;
+  color: white;
+}
+.info1 h4{padding: 10px;}
+.name{    margin-left: 199px;
+  line-height: 0.5;
+color: white;}
+.location h4{color: white;
+  margin-left: 199px;
+  margin-top: -10px;
+}
+
+.comande{    display: flex;
+  justify-content: center;
+ 
+}
+.butt{    width: 34%;
+  color: white;
+background-color: grey;
+
+height: 40px;
+    margin-right: 5px;
+
+}
+.waw {      display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 70%;
+  margin-left: 200px;
+  margin-top: 20px;}
+  .waw img {margin-bottom: 9px;}
+  
